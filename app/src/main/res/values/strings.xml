@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proje1</string>
+    <string name="edt_name">نام</string>
+    <string name="edt_family">نام خوانوادگی</string>
+    <string name="btn">ورود</string>
+    <string name="tv_name">aaa</string>
+</resources>
